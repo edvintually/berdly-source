@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				412,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BerdLeft"
+		},
+		{
+			"offsets": [
+				169,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BerdDown"
+		},
+		{
+			"offsets": [
+				194,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BerdUp"
+		},
+		{
+			"offsets": [
+				150,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BerdRight"
+		},
+		{
+			"offsets": [
+				190,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CSBerdIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SmallFucker",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "berdly",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

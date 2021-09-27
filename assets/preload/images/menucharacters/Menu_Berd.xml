@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Berd.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BerdIdle0000" x="0" y="0" width="354" height="321" frameX="0" frameY="-20" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0001" x="354" y="0" width="354" height="321" frameX="0" frameY="-20" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0002" x="708" y="0" width="320" height="335" frameX="-23" frameY="-6" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0003" x="1028" y="0" width="320" height="335" frameX="-23" frameY="-6" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0004" x="1348" y="0" width="309" height="339" frameX="-31" frameY="-2" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0005" x="1657" y="0" width="309" height="339" frameX="-31" frameY="-2" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0006" x="0" y="339" width="304" height="340" frameX="-34" frameY="-1" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0007" x="304" y="339" width="304" height="340" frameX="-34" frameY="-1" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0008" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0009" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0010" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0011" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0012" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0013" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+	<SubTexture name="BerdIdle0014" x="608" y="339" width="301" height="341" frameX="-36" frameY="0" frameWidth="354" frameHeight="341"/>
+</TextureAtlas>

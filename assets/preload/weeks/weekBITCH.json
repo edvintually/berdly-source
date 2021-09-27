@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Smart Bars",
+			"berdly",
+			[
+				26,
+				113,
+				193
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "niceroom",
+	"weekCharacters": [
+		"berd",
+		"bf",
+		"gf"
+	],
+	"storyName": "Falco Lombardi lookin ass -shino",
+	"weekName": "weekBITCH",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

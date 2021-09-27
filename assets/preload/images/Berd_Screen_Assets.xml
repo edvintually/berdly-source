@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Berd_Screen_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Start Screen BG art0000" x="0" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0001" x="0" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0002" x="1288" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0003" x="2576" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0004" x="3864" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0005" x="5152" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0006" x="6440" y="0" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0007" x="0" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0008" x="0" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0009" x="0" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0010" x="1288" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0011" x="1288" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0012" x="1288" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0013" x="2576" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0014" x="2576" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0015" x="3864" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0016" x="3864" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0017" x="5152" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0018" x="6440" y="730" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0019" x="0" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0020" x="1288" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0021" x="2576" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0022" x="3864" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0023" x="3864" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0024" x="3864" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0025" x="5152" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0026" x="5152" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0027" x="5152" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0028" x="6440" y="1460" width="1288" height="730"/>
+	<SubTexture name="Start Screen BG art0029" x="6440" y="1460" width="1288" height="730"/>
+</TextureAtlas>

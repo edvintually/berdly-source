@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BerdIdle"
+		},
+		{
+			"offsets": [
+				412,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BerdLefto"
+		},
+		{
+			"offsets": [
+				169,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BerdDowno"
+		},
+		{
+			"offsets": [
+				194,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BerdUpo"
+		},
+		{
+			"offsets": [
+				150,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BerdRighto"
+		},
+		{
+			"offsets": [
+				118,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hmph",
+			"loop": false,
+			"name": "BerdHmph"
+		},
+		{
+			"offsets": [
+				169,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BerdDownAlt"
+		},
+		{
+			"offsets": [
+				194,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BerdUpALT"
+		},
+		{
+			"offsets": [
+				412,
+				-79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BerdLeftALT"
+		},
+		{
+			"offsets": [
+				150,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BerdRightAlt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BerdAssets",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "berdly",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
